@@ -18,6 +18,11 @@ namespace MyBill.Service
 {
     public class UserService : IUserService
     {
+        public PageResult<Users> Query(SearchUsers model)
+        {
+
+        }
+
         public int Add(Users t)
         {
             var sql =string.Format("insert into Users(UserName,Password,NickName,Mobile,Gender,CreateDate,UpdateDate,LastLoginDate,IsEnable) value(@UserName,@Password,@NickName,@Mobile,@Gender,@CreateDate,@UpdateDate,@LastLoginDate,@IsEnable)");

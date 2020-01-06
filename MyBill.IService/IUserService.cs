@@ -19,5 +19,7 @@ namespace MyBill.IService
         Oauth Login(string name,string pwd);
 
         UserModel GetUser(string token);
+
+        PageResult<Users> Query(SearchUsers model);
     }
 }

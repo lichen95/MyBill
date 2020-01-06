@@ -16,7 +16,7 @@ namespace MyBill.Entity
     /// <summary>
     /// 账单表
     /// </summary>
-    class Bills
+    public class Bills
     {
         public Bills()
         {
