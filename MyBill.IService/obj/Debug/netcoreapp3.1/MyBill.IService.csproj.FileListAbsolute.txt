@@ -1,0 +1,12 @@
+F:\资料\资料\demo\MyBill\MyBill.IService\bin\Debug\netcoreapp3.1\MyBill.IService.deps.json
+F:\资料\资料\demo\MyBill\MyBill.IService\bin\Debug\netcoreapp3.1\MyBill.IService.dll
+F:\资料\资料\demo\MyBill\MyBill.IService\bin\Debug\netcoreapp3.1\MyBill.IService.pdb
+F:\资料\资料\demo\MyBill\MyBill.IService\bin\Debug\netcoreapp3.1\MyBill.Entity.dll
+F:\资料\资料\demo\MyBill\MyBill.IService\bin\Debug\netcoreapp3.1\MyBill.Entity.pdb
+F:\资料\资料\demo\MyBill\MyBill.IService\obj\Debug\netcoreapp3.1\MyBill.IService.csprojAssemblyReference.cache
+F:\资料\资料\demo\MyBill\MyBill.IService\obj\Debug\netcoreapp3.1\MyBill.IService.AssemblyInfoInputs.cache
+F:\资料\资料\demo\MyBill\MyBill.IService\obj\Debug\netcoreapp3.1\MyBill.IService.AssemblyInfo.cs
+F:\资料\资料\demo\MyBill\MyBill.IService\obj\Debug\netcoreapp3.1\MyBill.IService.csproj.CopyComplete
+F:\资料\资料\demo\MyBill\MyBill.IService\obj\Debug\netcoreapp3.1\MyBill.IService.dll
+F:\资料\资料\demo\MyBill\MyBill.IService\obj\Debug\netcoreapp3.1\MyBill.IService.pdb
+F:\资料\资料\demo\MyBill\MyBill.IService\bin\Debug\netcoreapp3.1\MyBill.Entity.xml

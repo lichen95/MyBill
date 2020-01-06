@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\资料\\资料\\案例\\MyBill\\MyBill.Service\\MyBill.Service.csproj": {}
+  },
+  "projects": {
+    "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\MyBill.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\MyBill.Common.csproj",
+        "projectName": "MyBill.Common",
+        "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\MyBill.Common.csproj",
+        "packagesPath": "C:\\Users\\59428\\.nuget\\packages\\",
+        "outputPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\59428\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj",
+        "projectName": "MyBill.Entity",
+        "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj",
+        "packagesPath": "C:\\Users\\59428\\.nuget\\packages\\",
+        "outputPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\59428\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\MyBill.IService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\MyBill.IService.csproj",
+        "projectName": "MyBill.IService",
+        "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\MyBill.IService.csproj",
+        "packagesPath": "C:\\Users\\59428\\.nuget\\packages\\",
+        "outputPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\59428\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj": {
+                "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\资料\\资料\\案例\\MyBill\\MyBill.Service\\MyBill.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Service\\MyBill.Service.csproj",
+        "projectName": "MyBill.Service",
+        "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Service\\MyBill.Service.csproj",
+        "packagesPath": "C:\\Users\\59428\\.nuget\\packages\\",
+        "outputPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\59428\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\MyBill.Common.csproj": {
+                "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\MyBill.Common.csproj"
+              },
+              "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj": {
+                "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj"
+              },
+              "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\MyBill.IService.csproj": {
+                "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\MyBill.IService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.18, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

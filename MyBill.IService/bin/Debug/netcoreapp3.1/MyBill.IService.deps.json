@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyBill.IService/1.0.0": {
+        "dependencies": {
+          "MyBill.Entity": "1.0.0"
+        },
+        "runtime": {
+          "MyBill.IService.dll": {}
+        }
+      },
+      "MyBill.Entity/1.0.0": {
+        "runtime": {
+          "MyBill.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyBill.IService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyBill.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

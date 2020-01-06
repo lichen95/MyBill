@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyBill.Entity</name>
+    </assembly>
+    <members>
+        <member name="T:MyBill.Entity.Models.Bills">
+            <summary>
+            账单表
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Bills.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Bills.UserId">
+            <summary>
+            用户id
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Bills.TypeId">
+            <summary>
+            类型id
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Bills.Price">
+            <summary>
+            金额
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Bills.CreateDate">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Bills.Desc">
+            <summary>
+            说明
+            </summary>
+        </member>
+        <member name="T:MyBill.Entity.Models.Permissions">
+            <summary>
+            权限表
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Permissions.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Permissions.Name">
+            <summary>
+            权限名称
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Permissions.Desc">
+            <summary>
+            说明
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Permissions.Area">
+            <summary>
+            区域
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Permissions.Controller">
+            <summary>
+            控制器
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Permissions.Action">
+            <summary>
+            方法
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Permissions.IsEnable">
+            <summary>
+            是否启用
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Permissions.Group">
+            <summary>
+            分组
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Permissions.CreateDate">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Permissions.UpdateDate">
+            <summary>
+            修改时间
+            </summary>
+        </member>
+        <member name="T:MyBill.Entity.Models.RolePermissions">
+            <summary>
+            角色权限关联表
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.RolePermissions.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.RolePermissions.RoleId">
+            <summary>
+            角色id
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.RolePermissions.PermissionId">
+            <summary>
+            权限id
+            </summary>
+        </member>
+        <member name="T:MyBill.Entity.Models.Roles">
+            <summary>
+            角色表
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Roles.Id">
+            <summary>
+            主键id
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Roles.Name">
+            <summary>
+            角色名称
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Roles.Desc">
+            <summary>
+            说明
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Roles.Module">
+            <summary>
+            模块
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Roles.CreateDate">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Roles.UpdateDate">
+            <summary>
+            修改时间
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Roles.IsEnable">
+            <summary>
+            是否启用
+            </summary>
+        </member>
+        <member name="T:MyBill.Entity.Models.Types">
+            <summary>
+            类型表
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Types.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Types.Name">
+            <summary>
+            类型名称
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Types.Desc">
+            <summary>
+            说明
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Types.CreateDate">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Types.UpdateDate">
+            <summary>
+            修改时间
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Types.IsEnable">
+            <summary>
+            是否启用
+            </summary>
+        </member>
+        <member name="T:MyBill.Entity.Models.UserRoles">
+            <summary>
+            用户角色关联表
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.UserRoles.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.UserRoles.UserId">
+            <summary>
+            用户Id
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.UserRoles.RoleId">
+            <summary>
+            角色Id
+            </summary>
+        </member>
+        <member name="T:MyBill.Entity.Models.Users">
+            <summary>
+            用户表
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Users.Id">
+            <summary>
+            主键
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Users.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Users.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Users.NickName">
+            <summary>
+            昵称
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Users.Mobile">
+            <summary>
+            手机号
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Users.Gender">
+            <summary>
+            性别
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Users.CreateDate">
+            <summary>
+            创建日期
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Users.UpdateDate">
+            <summary>
+            修改日期
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Users.LastLoginDate">
+            <summary>
+            最后登录时间
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.Models.Users.IsEnable">
+            <summary>
+            是否启用 
+            </summary>
+        </member>
+    </members>
+</doc>

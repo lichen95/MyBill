@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyBill.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:MyBill.WebApi.Controllers.UserApiController.AddUser(MyBill.Entity.Models.Users)">
+            <summary>
+            注册
+            </summary>
+            <param name="users">用户信息</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
