@@ -130,8 +130,5 @@ namespace MyBill.Service.Dapper
                 return reader.Read<T>();
             }
         }
-
-
-
     }
 }
