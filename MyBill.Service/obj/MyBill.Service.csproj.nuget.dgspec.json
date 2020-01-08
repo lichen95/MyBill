@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Service/MyBill.Service.csproj": {}
+    "F:\\资料\\资料\\案例\\MyBill\\MyBill.Service\\MyBill.Service.csproj": {}
   },
   "projects": {
-    "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/MyBill.Common.csproj": {
+    "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\MyBill.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/MyBill.Common.csproj",
+        "projectUniqueName": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\MyBill.Common.csproj",
         "projectName": "MyBill.Common",
-        "projectPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/MyBill.Common.csproj",
-        "packagesPath": "/Users/lichen/.nuget/packages/",
-        "outputPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/obj/",
+        "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\MyBill.Common.csproj",
+        "packagesPath": "C:\\Users\\59428\\.nuget\\packages\\",
+        "outputPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/lichen/.config/NuGet/NuGet.Config"
+          "C:\\Users\\59428\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,26 +73,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Entity/MyBill.Entity.csproj": {
+    "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Entity/MyBill.Entity.csproj",
+        "projectUniqueName": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj",
         "projectName": "MyBill.Entity",
-        "projectPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Entity/MyBill.Entity.csproj",
-        "packagesPath": "/Users/lichen/.nuget/packages/",
-        "outputPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Entity/obj/",
+        "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj",
+        "packagesPath": "C:\\Users\\59428\\.nuget\\packages\\",
+        "outputPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/lichen/.config/NuGet/NuGet.Config"
+          "C:\\Users\\59428\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -118,33 +128,38 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.IService/MyBill.IService.csproj": {
+    "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\MyBill.IService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.IService/MyBill.IService.csproj",
+        "projectUniqueName": "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\MyBill.IService.csproj",
         "projectName": "MyBill.IService",
-        "projectPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.IService/MyBill.IService.csproj",
-        "packagesPath": "/Users/lichen/.nuget/packages/",
-        "outputPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.IService/obj/",
+        "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\MyBill.IService.csproj",
+        "packagesPath": "C:\\Users\\59428\\.nuget\\packages\\",
+        "outputPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/lichen/.config/NuGet/NuGet.Config"
+          "C:\\Users\\59428\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Entity/MyBill.Entity.csproj": {
-                "projectPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Entity/MyBill.Entity.csproj"
+              "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj": {
+                "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj"
               }
             }
           }
@@ -172,39 +187,44 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Service/MyBill.Service.csproj": {
+    "F:\\资料\\资料\\案例\\MyBill\\MyBill.Service\\MyBill.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Service/MyBill.Service.csproj",
+        "projectUniqueName": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Service\\MyBill.Service.csproj",
         "projectName": "MyBill.Service",
-        "projectPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Service/MyBill.Service.csproj",
-        "packagesPath": "/Users/lichen/.nuget/packages/",
-        "outputPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Service/obj/",
+        "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Service\\MyBill.Service.csproj",
+        "packagesPath": "C:\\Users\\59428\\.nuget\\packages\\",
+        "outputPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/lichen/.config/NuGet/NuGet.Config"
+          "C:\\Users\\59428\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/MyBill.Common.csproj": {
-                "projectPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/MyBill.Common.csproj"
+              "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\MyBill.Common.csproj": {
+                "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\MyBill.Common.csproj"
               },
-              "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Entity/MyBill.Entity.csproj": {
-                "projectPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Entity/MyBill.Entity.csproj"
+              "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj": {
+                "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj"
               },
-              "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.IService/MyBill.IService.csproj": {
-                "projectPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.IService/MyBill.IService.csproj"
+              "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\MyBill.IService.csproj": {
+                "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\MyBill.IService.csproj"
               }
             }
           }
@@ -246,7 +266,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

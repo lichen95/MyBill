@@ -8457,12 +8457,11 @@
       ]
     },
     "System.Runtime.Serialization.Formatters/4.3.0": {
-      "sha512": "KT591AkTNFOTbhZlaeMVvfax3RqhH1EJlcwF50Wm7sfnBLuHiOeZRRKrr1ns3NESkM20KPZ5Ol/ueMq5vg4QoQ==",
+      "sha512": "vm9Q/H7/43/8mTi7jOgof9IOxTkyAyQjRy4rBZmkcWTBgMqFVQU42elaK2OCWaqNBV5ma/gC1ClLN1Xw1acpWw==",
       "type": "package",
       "path": "system.runtime.serialization.formatters/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -9808,12 +9807,11 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
+      "sha512": "VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -9988,40 +9986,46 @@
     ]
   },
   "packageFolders": {
-    "/Users/lichen/.nuget/packages/": {}
+    "C:\\Users\\59428\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.WebApi/MyBill.WebApi.csproj",
+      "projectUniqueName": "F:\\资料\\资料\\案例\\MyBill\\MyBill.WebApi\\MyBill.WebApi.csproj",
       "projectName": "MyBill.WebApi",
-      "projectPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.WebApi/MyBill.WebApi.csproj",
-      "packagesPath": "/Users/lichen/.nuget/packages/",
-      "outputPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.WebApi/obj/",
+      "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.WebApi\\MyBill.WebApi.csproj",
+      "packagesPath": "C:\\Users\\59428\\.nuget\\packages\\",
+      "outputPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.WebApi\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/Users/lichen/.config/NuGet/NuGet.Config"
+        "C:\\Users\\59428\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/MyBill.Common.csproj": {
-              "projectPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/MyBill.Common.csproj"
+            "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\MyBill.Common.csproj": {
+              "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Common\\MyBill.Common.csproj"
             },
-            "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Entity/MyBill.Entity.csproj": {
-              "projectPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Entity/MyBill.Entity.csproj"
+            "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj": {
+              "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Entity\\MyBill.Entity.csproj"
             },
-            "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.IService/MyBill.IService.csproj": {
-              "projectPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.IService/MyBill.IService.csproj"
+            "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\MyBill.IService.csproj": {
+              "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.IService\\MyBill.IService.csproj"
             },
-            "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Service/MyBill.Service.csproj": {
-              "projectPath": "/Users/lichen/学习/案例/MyBill/MyBill/MyBill.Service/MyBill.Service.csproj"
+            "F:\\资料\\资料\\案例\\MyBill\\MyBill.Service\\MyBill.Service.csproj": {
+              "projectPath": "F:\\资料\\资料\\案例\\MyBill\\MyBill.Service\\MyBill.Service.csproj"
             }
           }
         }
@@ -10080,7 +10084,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -10089,7 +10093,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Microsoft.VisualStudio.Web.CodeGeneration.Templating 3.1.0-preview1-19509-03 depends on Microsoft.CodeAnalysis.CSharp (>= 3.4.0-beta2-19477-01) but Microsoft.CodeAnalysis.CSharp 3.4.0-beta2-19477-01 was not found. An approximate best match of Microsoft.CodeAnalysis.CSharp 3.4.0-beta2-final was resolved.",
+      "message": "Microsoft.VisualStudio.Web.CodeGeneration.Templating 3.1.0-preview1-19509-03 依赖于 Microsoft.CodeAnalysis.CSharp (>= 3.4.0-beta2-19477-01)，但找不到 Microsoft.CodeAnalysis.CSharp 3.4.0-beta2-19477-01。 已解决 Microsoft.CodeAnalysis.CSharp 3.4.0-beta2-final 的近似最佳匹配。 ",
       "libraryId": "Microsoft.CodeAnalysis.CSharp",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
@@ -10099,7 +10103,7 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Microsoft.VisualStudio.Web.CodeGeneration.Utils 3.1.0-preview1-19509-03 depends on Microsoft.CodeAnalysis.CSharp.Workspaces (>= 3.4.0-beta2-19477-01) but Microsoft.CodeAnalysis.CSharp.Workspaces 3.4.0-beta2-19477-01 was not found. An approximate best match of Microsoft.CodeAnalysis.CSharp.Workspaces 3.4.0-beta2-final was resolved.",
+      "message": "Microsoft.VisualStudio.Web.CodeGeneration.Utils 3.1.0-preview1-19509-03 依赖于 Microsoft.CodeAnalysis.CSharp.Workspaces (>= 3.4.0-beta2-19477-01)，但找不到 Microsoft.CodeAnalysis.CSharp.Workspaces 3.4.0-beta2-19477-01。 已解决 Microsoft.CodeAnalysis.CSharp.Workspaces 3.4.0-beta2-final 的近似最佳匹配。 ",
       "libraryId": "Microsoft.CodeAnalysis.CSharp.Workspaces",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
@@ -10109,7 +10113,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.WebApi.Core 5.2.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8”而不是项目目标框架“.NETCoreApp,Version=v3.1”还原包“Microsoft.AspNet.WebApi.Core 5.2.7”。此包可能与项目不完全兼容。",
       "libraryId": "Microsoft.AspNet.WebApi.Core",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.1"
