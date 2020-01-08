@@ -8,4 +8,7 @@
     <DocumentationFile>F:\资料\资料\demo\MyBill\MyBill.WebApi\MyBill.Entity.xml</DocumentationFile>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Dto\Type\" />
+  </ItemGroup>
 </Project>
