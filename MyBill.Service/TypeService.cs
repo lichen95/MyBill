@@ -17,10 +17,14 @@ namespace MyBill.Service
             return DbContext.Execute(sql, t);
         }
 
-        public PageResult<Types> Query()
+        public PageResult<Types> Query(SearchTypes model)
         {
             var sql = "select * from types";
             var types = DbContext.Query<Types>(sql);
+
+            var 
+
+
 
         }
 
