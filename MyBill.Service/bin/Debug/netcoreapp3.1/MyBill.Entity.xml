@@ -4,6 +4,43 @@
         <name>MyBill.Entity</name>
     </assembly>
     <members>
+        <member name="T:MyBill.Entity.PageResult">
+            <summary>
+            分页返回结果
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.PageResult.Code">
+            <summary>
+            状态码
+            0：成功，1：失败，其他自定义
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.PageResult.Count">
+            <summary>
+            总页数
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.PageResult.RCount">
+            <summary>
+            总记录数
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.PageResult`1.Code">
+            <summary>
+            状态码
+            0：成功，1：失败，其他自定义
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.PageResult`1.Pages">
+            <summary>
+            总页数
+            </summary>
+        </member>
+        <member name="P:MyBill.Entity.PageResult`1.RCount">
+            <summary>
+            总记录数
+            </summary>
+        </member>
         <member name="P:MyBill.Entity.UserModel.Id">
             <summary>
             用户编号

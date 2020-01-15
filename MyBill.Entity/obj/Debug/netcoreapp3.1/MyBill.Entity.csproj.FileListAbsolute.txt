@@ -16,3 +16,12 @@ F:/资料/资料/demo/MyBill/MyBill.Entity/obj/Debug/netcoreapp3.1/MyBill.Entity
 /Users/lichen/学习/案例/MyBill/MyBill/MyBill.Entity/obj/Debug/netcoreapp3.1/MyBill.Entity.AssemblyInfo.cs
 /Users/lichen/学习/案例/MyBill/MyBill/MyBill.Entity/obj/Debug/netcoreapp3.1/MyBill.Entity.dll
 /Users/lichen/学习/案例/MyBill/MyBill/MyBill.Entity/obj/Debug/netcoreapp3.1/MyBill.Entity.pdb
+F:\资料\资料\案例\MyBill\MyBill.Entity\bin\Debug\netcoreapp3.1\MyBill.Entity.deps.json
+F:\资料\资料\案例\MyBill\MyBill.Entity\bin\Debug\netcoreapp3.1\MyBill.Entity.dll
+F:\资料\资料\案例\MyBill\MyBill.Entity\bin\Debug\netcoreapp3.1\MyBill.Entity.pdb
+F:\资料\资料\案例\MyBill\MyBill.Entity\bin\Debug\netcoreapp3.1\MyBill.Entity.xml
+F:\资料\资料\案例\MyBill\MyBill.Entity\obj\Debug\netcoreapp3.1\MyBill.Entity.csprojAssemblyReference.cache
+F:\资料\资料\案例\MyBill\MyBill.Entity\obj\Debug\netcoreapp3.1\MyBill.Entity.AssemblyInfoInputs.cache
+F:\资料\资料\案例\MyBill\MyBill.Entity\obj\Debug\netcoreapp3.1\MyBill.Entity.AssemblyInfo.cs
+F:\资料\资料\案例\MyBill\MyBill.Entity\obj\Debug\netcoreapp3.1\MyBill.Entity.dll
+F:\资料\资料\案例\MyBill\MyBill.Entity\obj\Debug\netcoreapp3.1\MyBill.Entity.pdb

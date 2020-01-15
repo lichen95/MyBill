@@ -6,14 +6,6 @@ F:/资料/资料/demo/MyBill/MyBill.Common/obj/Debug/netcoreapp3.1/MyBill.Common
 F:/资料/资料/demo/MyBill/MyBill.Common/bin/Debug/netcoreapp3.1/MyBill.Common.pdb
 F:/资料/资料/demo/MyBill/MyBill.Common/obj/Debug/netcoreapp3.1/MyBill.Common.dll
 F:/资料/资料/demo/MyBill/MyBill.Common/obj/Debug/netcoreapp3.1/MyBill.Common.pdb
-F:/资料/资料/案例/MyBill/MyBill.Common/bin/Debug/netcoreapp3.1/MyBill.Common.deps.json
-F:/资料/资料/案例/MyBill/MyBill.Common/bin/Debug/netcoreapp3.1/MyBill.Common.dll
-F:/资料/资料/案例/MyBill/MyBill.Common/bin/Debug/netcoreapp3.1/MyBill.Common.pdb
-F:/资料/资料/案例/MyBill/MyBill.Common/obj/Debug/netcoreapp3.1/MyBill.Common.csprojAssemblyReference.cache
-F:/资料/资料/案例/MyBill/MyBill.Common/obj/Debug/netcoreapp3.1/MyBill.Common.AssemblyInfoInputs.cache
-F:/资料/资料/案例/MyBill/MyBill.Common/obj/Debug/netcoreapp3.1/MyBill.Common.AssemblyInfo.cs
-F:/资料/资料/案例/MyBill/MyBill.Common/obj/Debug/netcoreapp3.1/MyBill.Common.dll
-F:/资料/资料/案例/MyBill/MyBill.Common/obj/Debug/netcoreapp3.1/MyBill.Common.pdb
 /Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/bin/Debug/netcoreapp3.1/MyBill.Common.deps.json
 /Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/bin/Debug/netcoreapp3.1/MyBill.Common.dll
 /Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/bin/Debug/netcoreapp3.1/MyBill.Common.pdb
@@ -22,3 +14,11 @@ F:/资料/资料/案例/MyBill/MyBill.Common/obj/Debug/netcoreapp3.1/MyBill.Comm
 /Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/obj/Debug/netcoreapp3.1/MyBill.Common.AssemblyInfo.cs
 /Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/obj/Debug/netcoreapp3.1/MyBill.Common.dll
 /Users/lichen/学习/案例/MyBill/MyBill/MyBill.Common/obj/Debug/netcoreapp3.1/MyBill.Common.pdb
+F:\资料\资料\案例\MyBill\MyBill.Common\bin\Debug\netcoreapp3.1\MyBill.Common.deps.json
+F:\资料\资料\案例\MyBill\MyBill.Common\bin\Debug\netcoreapp3.1\MyBill.Common.dll
+F:\资料\资料\案例\MyBill\MyBill.Common\bin\Debug\netcoreapp3.1\MyBill.Common.pdb
+F:\资料\资料\案例\MyBill\MyBill.Common\obj\Debug\netcoreapp3.1\MyBill.Common.csprojAssemblyReference.cache
+F:\资料\资料\案例\MyBill\MyBill.Common\obj\Debug\netcoreapp3.1\MyBill.Common.AssemblyInfoInputs.cache
+F:\资料\资料\案例\MyBill\MyBill.Common\obj\Debug\netcoreapp3.1\MyBill.Common.AssemblyInfo.cs
+F:\资料\资料\案例\MyBill\MyBill.Common\obj\Debug\netcoreapp3.1\MyBill.Common.dll
+F:\资料\资料\案例\MyBill\MyBill.Common\obj\Debug\netcoreapp3.1\MyBill.Common.pdb

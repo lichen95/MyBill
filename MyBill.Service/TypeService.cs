@@ -22,9 +22,8 @@ namespace MyBill.Service
             var sql = "select * from types";
             var types = DbContext.Query<Types>(sql);
 
-            var 
 
-
+            return new PageResult<Types>();
 
         }
 

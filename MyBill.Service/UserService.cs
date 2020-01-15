@@ -20,7 +20,7 @@ namespace MyBill.Service
     {
         public PageResult<Users> Query(SearchUsers model)
         {
-
+            return new PageResult<Users>();
         }
 
         public int Add(Users t)
